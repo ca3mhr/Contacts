@@ -1,5 +1,29 @@
+'''
+    A simple contact list written in Python
+'''
+
+'''
+    This program is divided into three sections:
+        Section 1: The imports used in the program
+        Section 2: The functions used in the program
+        Section 3: The start of the program
+'''
+
+'''
+    Section 1: The imports used in the program
+'''
 import os
 import time
+
+'''
+    Section 2: The functions used in the program
+'''
+
+'''
+    Function List:
+        1.clear_screen()
+        2.main()
+'''
 
 def clear_screen():
     '''
@@ -78,4 +102,7 @@ def main():
 
     main()
 
+'''
+    Section 3: The start of the program
+'''
 main()
